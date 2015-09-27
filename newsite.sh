@@ -2,6 +2,8 @@
 #Requeriments Git, Nginx, php5-fpm
 #Version 0.1.2
 #Author: Jhonn willker
+#Url: https://github.com/JohnWillker/newsite
+
 echo Creating...
 
 #Create a directory for $1 site
