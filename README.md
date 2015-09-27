@@ -11,9 +11,13 @@ Script for set configs on server for add new website with NGINX block serve and 
 
 ####How to use
 Copy newsite.sh file to your server and run.
+
 Example:
+
 Copy with scp: `scp newsite.sh user@serverdomain:~/`
+
 Permissions: `sudo chmod +x newsite.sh`
+
 Execute: `./newsite.sh mypage.com or sudo bash newsite.sh mypage.com`
 
 ####What happened ?
