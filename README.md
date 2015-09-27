@@ -5,8 +5,10 @@ Script for set configs on server for add new website with NGINX block serve and 
 - Git
 - Nginx
 - php5-fpm
+
 ##Requeriments on your host:
 - Git
+
 ####How to use
 Copy newsite.sh file to your server and run.
 Example:
