@@ -41,4 +41,4 @@ Contributions, questions and comments are all welcome and encouraged.
 
 ##License
 GNU GENERAL PUBLIC LICENSE
-   Version 2, June 1991
+Version 2, June 1991
