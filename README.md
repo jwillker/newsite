@@ -20,6 +20,12 @@ Permissions: `sudo chmod +x newsite.sh`
 
 Execute: `./newsite.sh mypage.com or sudo bash newsite.sh mypage.com`
 
+OR
+
+Use `git clone https://github.com/JohnWillker/newsite` on your server
+
+and run.
+
 ####What happened ?
 
 This script will creat a directory named repo in /var/repo, where git will get the files for sync with directory /var/www/<name of your domain>/html, exactly where Nginx see the files.
